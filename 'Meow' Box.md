@@ -1,7 +1,7 @@
 # **First box: Meow.**
 
 ## Task:
-Given the task to find and read the context of a file and provide the flag within the file as proof, the target IP was 10.129.89.221.
+Given the task to find and read the contents of a file and provide the flag within the file as proof, the target IP was 10.129.89.221.
 
 ## What I did:
 1) Ran `nmap -sV` scan in order to find out what service each port is running and (where possible) version info.
