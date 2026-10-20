@@ -1,2 +1,2 @@
 # Hack-The-Box-writeups
-A repository containing information of how I worked through Hack The Box machines.
+This repository contains writeups of how I worked through Hack The Box machines.
