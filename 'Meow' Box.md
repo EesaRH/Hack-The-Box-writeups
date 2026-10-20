@@ -12,7 +12,7 @@ Given the task to find and read the contents of a file and provide the flag with
 4) Once in the target file, I ran the `cat` command to display the file contents and retrieve the flag for proof.
 
 ## Mistakes I made:
-1) Though not a mistake and more of an inefficient method, I used `nmap` at first, though I shortly realised that `nmap -sV` is better in practice in this
+1) Though not a mistake and more of an inefficient method, I used `nmap` at first, though I remembered that `nmap -sV` is better in practice in this
 2) case, and used that instead.
 3) Mixed up `dir` from Windows CLI with `ls` from Linux CLI, which is what I was working in.
 
