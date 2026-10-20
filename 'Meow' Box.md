@@ -20,13 +20,13 @@ Given the task to find and read the contents of a file and provide the flag with
 -Gained confidence in scanning networks and navigating through folders using the CLI.
 
 -Learnt about the misconfiguration companies would make by leaving Telnet running, allowing malicious users to exploit no password on an admin account, and how 
- easy it is to exploit this vulnerablity.
+  easy it is to exploit this vulnerablity.
 
 -That Telnet sends everything uncencrypted.
 
 ## How it can be prevented:
 -SSH replaced Telnet in the late 1990s, but some people still leave Telnet running, hence the misconfiguration. Disabling Telnet where it isn't needed is one way
- to prevent this vulnerability on your own network/system.
+  to prevent this vulnerability on your own network/system.
 
 -Scanning your own network to check for open port 23 is another preventative measure.
 
